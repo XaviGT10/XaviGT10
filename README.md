@@ -29,4 +29,4 @@ I invite you to consult my CV!
 ### 💪My Websites:💪
  - [LinkedIn](https://www.linkedin.com/in/xaviergiróntomàs/)
  - [Twitter](https://twitter.com/XaviGironTomas)
- - [About me](about.me/xavigiron)
+ - [About me](https://about.me/xavigiron)
