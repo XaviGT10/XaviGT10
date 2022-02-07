@@ -23,6 +23,7 @@ I invite you to consult my CV!
 - CSS
 - NodeJS
 - Java
+- Python
 
 
 
