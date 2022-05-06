@@ -3,8 +3,10 @@
 
 ## 👤About me:👤
 
-Hello! My name is Xavier, although I rather be called Xavi. I'm a 21 year old guy who's looking for a future job, eager to work an continue to learn and grow as a programmer and as a person. By the moment I'm looking for a company to carry out the intership necessary to complete the Foundation Degree in cross-
-platform application development that I'm studying.
+Hello! My name is Xavier, although I rather be called Xavi. I'm a 21 year old guy who's looking for a future job, eager to work an continue to learn and grow as a programmer and as a person. 
+
+At the moment I'm on an intership in Neoris, in the Data Analytics & AI department.
+
 I invite you to consult my CV!
 
 
