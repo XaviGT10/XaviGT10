@@ -9,6 +9,8 @@ I invite you to consult my CV!
 
 
 ## 💻Technologies I have used:💻
+- Tableau
+- Power BI
 - MySql
 - PLSQL
 - Sql
