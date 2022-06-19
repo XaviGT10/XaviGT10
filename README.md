@@ -1,4 +1,4 @@
-# Xavi Girón Tomàs, Jr. Developer and student in U-Tad
+# Xavi Girón Tomàs, Jr. Developer Data Analyst at NEORIS
 <img src="https://github.com/XaviGT10/Presentation/blob/main/istockphoto-1200200188-612x612.jpg" width=50% align="right">
 
 ## 👤About me:👤
