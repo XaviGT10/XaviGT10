@@ -3,7 +3,7 @@
 
 ## 👤About me:👤
 
-Hello! My name is Xavier, although I rather be called Xavi. I'm a 21 year old guy working at NEORIS as a Data Analyst on the Analytics and IA deoartment.
+Hello! My name is Xavier, although I rather be called Xavi. I'm a 21 year old guy working at NEORIS as a Data Analyst on the Analytics and IA department.
 I invite you to consult my CV!
 
 
